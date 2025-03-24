@@ -41,13 +41,13 @@ Purpose：
 
 This benchmark dataset is specifically designed for:
 
-Evaluating the effectiveness of changepoint detection algorithms：
+1.Evaluating the effectiveness of changepoint detection algorithms：
 
-1.Testing the efficiency of detection methods in environmental monitoring contexts
+2.Testing the efficiency of detection methods in environmental monitoring contexts
 
-2.Comparing performance across different detection approaches
+3.Comparing performance across different detection approaches
 
-3.Developing more robust algorithms for real-time environmental state transition detection
+4.Developing more robust algorithms for real-time environmental state transition detection
 
 
 Contact：
